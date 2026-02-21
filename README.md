@@ -1,8 +1,5 @@
 🛡️ Fraud Detection System
 End-to-End ML Solution for Financial Fraud Detection
-https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg
-https://img.shields.io/badge/Python-3.8+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
 
 📋 Table of Contents
 Project Overview
