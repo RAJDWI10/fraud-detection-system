@@ -381,5 +381,5 @@ Built with best practices from ML engineering
 
 Designed for clarity, explainability, and production readiness
 
-
+Note: Dont forget to setx GROQ_API_KEY "" in the powershell by going into the folder directory where the project folder placed.
 
